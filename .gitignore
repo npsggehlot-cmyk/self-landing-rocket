@@ -1,0 +1,12 @@
+# KiCad backups / local state
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.bak
+# Python / OS
+__pycache__/
+.DS_Store
+# build outputs
+*.elf
+*.hex
+simulation/firmware-sim/sim

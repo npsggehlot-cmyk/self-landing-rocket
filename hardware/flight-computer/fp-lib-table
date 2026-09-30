@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "TerminalBlock_WAGO_local")(type "KiCad")(uri "${KIPRJMOD}/lib/TerminalBlock_WAGO_local.pretty")(options "")(descr "WAGO 2601 lever terminal (copied from KiCad 10 library)"))
+)
